@@ -3,9 +3,9 @@
 Développeur solo à Perros-Guirec. Ancien du chantier naval, aujourd'hui développeur IA et automatisation : je conçois et déploie mes outils de bout en bout (interface, backend, IA, serveur).
 *Solo developer based in Brittany, France. I build and ship small web tools end to end.*
 
-## Oracle Marin, un labo d'outils web
+## Oracle Marin, un observatoire de données publiques
 
-Une quinzaine d'outils gratuits et en français : **https://oraclemarin.fr**
+Mobilisations, plans sociaux, quartiers, villes, quotas de CO₂ et argent public, croisés et sourcés, sans interprétation : **https://oraclemarin.fr**. Code et méthode ouverts ci-dessous, plus quelques petits outils gratuits du même auteur ([liste](https://oraclemarin.fr/outils/)).
 
 | Outil | En une phrase |
 |---|---|
